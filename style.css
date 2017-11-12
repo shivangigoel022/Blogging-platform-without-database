@@ -1,0 +1,47 @@
+
+body{background-image: url(a.jpg);}
+#footer {
+   
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   height:90px;
+   background-color:#00e68a;
+   color: white;
+   text-align: center;
+
+
+}
+ul {
+    list-style-type: none;
+    margin: 0px 170px;
+    padding: 10;
+    overflow: hidden;
+   
+}
+
+li {
+    float:left ;
+    }
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 34px 56px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:#00cc66;
+}
+/*.active {
+    background-color:#00cc66;
+}*/
+mobile{padding:20px;display:block ;font-size:25pt;color:black;font-family: cursive}
+contact{padding:20px;display:block;font-size:25pt;color:black;font-family: cursive}
+email{padding:20px;display:block;font-size:25pt;color:black;font-family: cursive}
+address{padding:20px;display:block;font-size:25pt;color:black;font-family: cursive}
+heading{padding:20px;display:block;font-size:35pt;color:red;font-family: cursive}
+content{padding:30px;display:block;font-size:35pt;color:black;font-family:arial}
+value{padding:20px;display:block ;font-size:25pt;color:black;font-family:arial}

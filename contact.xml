@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<contact>
+	<heading>Contact Information</heading>
+	<mobile>Mobile: <value>2345678644</value></mobile>
+	<email>Email: <value>abcd@gmail.com</value></email>
+	<address>Address: <value>qwerty asdfg sdfg</value></address>
+</contact>
