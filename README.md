@@ -1,1 +1,2 @@
-# Blogging-platform-without-database
+Sample Blogging-platform-without-database
+using php xml and html
